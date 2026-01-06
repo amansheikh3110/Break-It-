@@ -1,6 +1,7 @@
 # flutter_stuff
 
 A new Flutter project.
+An exciting and nostalgic game.
 
 ## Getting Started
 
